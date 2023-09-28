@@ -1,0 +1,33 @@
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Parcial\Alcaldia_Flores_del_Campo\Logica\bin\Debug\Logica.dll
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Parcial\Alcaldia_Flores_del_Campo\Logica\bin\Debug\Logica.pdb
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Parcial\Alcaldia_Flores_del_Campo\Logica\bin\Debug\Datos.dll
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Parcial\Alcaldia_Flores_del_Campo\Logica\bin\Debug\Entidad.dll
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Parcial\Alcaldia_Flores_del_Campo\Logica\bin\Debug\Datos.pdb
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Parcial\Alcaldia_Flores_del_Campo\Logica\bin\Debug\Entidad.pdb
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Parcial\Alcaldia_Flores_del_Campo\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Parcial\Alcaldia_Flores_del_Campo\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Parcial\Alcaldia_Flores_del_Campo\Logica\obj\Debug\Logica.csproj.CopyComplete
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Parcial\Alcaldia_Flores_del_Campo\Logica\obj\Debug\Logica.dll
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Parcial\Alcaldia_Flores_del_Campo\Logica\obj\Debug\Logica.pdb
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Alcaldia_Flores_del_Campo\Logica\bin\Debug\Logica.dll
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Alcaldia_Flores_del_Campo\Logica\bin\Debug\Logica.pdb
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Alcaldia_Flores_del_Campo\Logica\bin\Debug\Datos.dll
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Alcaldia_Flores_del_Campo\Logica\bin\Debug\Entidad.dll
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Alcaldia_Flores_del_Campo\Logica\bin\Debug\Datos.pdb
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Alcaldia_Flores_del_Campo\Logica\bin\Debug\Entidad.pdb
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Alcaldia_Flores_del_Campo\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Alcaldia_Flores_del_Campo\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Alcaldia_Flores_del_Campo\Logica\obj\Debug\Logica.csproj.CopyComplete
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Alcaldia_Flores_del_Campo\Logica\obj\Debug\Logica.dll
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Alcaldia_Flores_del_Campo\Logica\obj\Debug\Logica.pdb
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Parcial\Alcaldia_Flores_del_Campo - Original\Logica\bin\Debug\Logica.dll
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Parcial\Alcaldia_Flores_del_Campo - Original\Logica\bin\Debug\Logica.pdb
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Parcial\Alcaldia_Flores_del_Campo - Original\Logica\bin\Debug\Datos.dll
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Parcial\Alcaldia_Flores_del_Campo - Original\Logica\bin\Debug\Entidad.dll
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Parcial\Alcaldia_Flores_del_Campo - Original\Logica\bin\Debug\Datos.pdb
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Parcial\Alcaldia_Flores_del_Campo - Original\Logica\bin\Debug\Entidad.pdb
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Parcial\Alcaldia_Flores_del_Campo - Original\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Parcial\Alcaldia_Flores_del_Campo - Original\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Parcial\Alcaldia_Flores_del_Campo - Original\Logica\obj\Debug\Logica.csproj.CopyComplete
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Parcial\Alcaldia_Flores_del_Campo - Original\Logica\obj\Debug\Logica.dll
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Parcial\Alcaldia_Flores_del_Campo - Original\Logica\obj\Debug\Logica.pdb

@@ -1,0 +1,12 @@
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Parcial\Alcaldia_Flores_del_Campo\Entidad\bin\Debug\Entidad.dll
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Parcial\Alcaldia_Flores_del_Campo\Entidad\bin\Debug\Entidad.pdb
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Parcial\Alcaldia_Flores_del_Campo\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Parcial\Alcaldia_Flores_del_Campo\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Parcial\Alcaldia_Flores_del_Campo\Entidad\obj\Debug\Entidad.dll
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Parcial\Alcaldia_Flores_del_Campo\Entidad\obj\Debug\Entidad.pdb
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Alcaldia_Flores_del_Campo\Entidad\bin\Debug\Entidad.dll
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Alcaldia_Flores_del_Campo\Entidad\bin\Debug\Entidad.pdb
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Alcaldia_Flores_del_Campo\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Alcaldia_Flores_del_Campo\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Alcaldia_Flores_del_Campo\Entidad\obj\Debug\Entidad.dll
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\Alcaldia_Flores_del_Campo\Entidad\obj\Debug\Entidad.pdb
