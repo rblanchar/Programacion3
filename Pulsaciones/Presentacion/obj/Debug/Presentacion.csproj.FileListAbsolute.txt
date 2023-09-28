@@ -1,0 +1,42 @@
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\Presentacion\bin\Debug\Presentacion.exe.config
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\Presentacion\bin\Debug\Presentacion.exe
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\Presentacion\bin\Debug\Presentacion.pdb
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\Presentacion\obj\Debug\Presentacion.exe
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\Presentacion\obj\Debug\Presentacion.pdb
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\Presentacion\bin\Debug\BLL.dll
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\Presentacion\bin\Debug\ENTITY.dll
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\Presentacion\bin\Debug\BLL.pdb
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\Presentacion\bin\Debug\ENTITY.pdb
+D:\UNICESAR-2023\P3\GRUPO-04\Pulsaciones04\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\hp\Downloads\Pulsaciones04\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\Pulsaciones04\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Downloads\Pulsaciones04\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\Pulsaciones04\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\hp\Downloads\Pulsaciones04\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\hp\Downloads\Pulsaciones04\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\hp\Downloads\Pulsaciones04\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\hp\Downloads\Pulsaciones04\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\hp\Downloads\Pulsaciones04\Presentacion\bin\Debug\BLL.dll
+C:\Users\hp\Downloads\Pulsaciones04\Presentacion\bin\Debug\ENTITY.dll
+C:\Users\hp\Downloads\Pulsaciones04\Presentacion\bin\Debug\DAL.dll
+C:\Users\hp\Downloads\Pulsaciones04\Presentacion\bin\Debug\BLL.pdb
+C:\Users\hp\Downloads\Pulsaciones04\Presentacion\bin\Debug\ENTITY.pdb
+C:\Users\hp\Downloads\Pulsaciones04\Presentacion\bin\Debug\DAL.pdb
+C:\Users\hp\Downloads\Pulsaciones04\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\Ingenieria de Sistemas\Semestre lV\C#\Pulsaciones04\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\Ingenieria de Sistemas\Semestre lV\C#\Pulsaciones04\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Ingenieria de Sistemas\Semestre lV\C#\Pulsaciones04\Presentacion\obj\Debug\Presentacion.exe
+D:\Ingenieria de Sistemas\Semestre lV\C#\Pulsaciones04\Presentacion\obj\Debug\Presentacion.pdb
+D:\Ingenieria de Sistemas\Semestre lV\C#\Pulsaciones04\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Ingenieria de Sistemas\Semestre lV\C#\Pulsaciones04\Presentacion\bin\Debug\Presentacion.exe
+D:\Ingenieria de Sistemas\Semestre lV\C#\Pulsaciones04\Presentacion\bin\Debug\Presentacion.pdb
+D:\Ingenieria de Sistemas\Semestre lV\C#\Pulsaciones04\Presentacion\bin\Debug\BLL.dll
+D:\Ingenieria de Sistemas\Semestre lV\C#\Pulsaciones04\Presentacion\bin\Debug\ENTITY.dll
+D:\Ingenieria de Sistemas\Semestre lV\C#\Pulsaciones04\Presentacion\bin\Debug\DAL.dll
+D:\Ingenieria de Sistemas\Semestre lV\C#\Pulsaciones04\Presentacion\bin\Debug\BLL.pdb
+D:\Ingenieria de Sistemas\Semestre lV\C#\Pulsaciones04\Presentacion\bin\Debug\ENTITY.pdb
+D:\Ingenieria de Sistemas\Semestre lV\C#\Pulsaciones04\Presentacion\bin\Debug\DAL.pdb
+D:\Ingenieria de Sistemas\Semestre lV\C#\Pulsaciones04\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
