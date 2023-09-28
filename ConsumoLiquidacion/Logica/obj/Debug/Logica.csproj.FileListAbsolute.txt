@@ -1,0 +1,44 @@
+C:\Users\carlo\source\repos\PARCIAL1\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\carlo\source\repos\PARCIAL1\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\PARCIAL1\Logica\bin\Debug\Logica.dll
+C:\Users\carlo\source\repos\PARCIAL1\Logica\bin\Debug\Logica.pdb
+C:\Users\carlo\source\repos\PARCIAL1\Logica\bin\Debug\Datos.dll
+C:\Users\carlo\source\repos\PARCIAL1\Logica\bin\Debug\Entidades.dll
+C:\Users\carlo\source\repos\PARCIAL1\Logica\bin\Debug\Datos.pdb
+C:\Users\carlo\source\repos\PARCIAL1\Logica\bin\Debug\Entidades.pdb
+C:\Users\carlo\source\repos\PARCIAL1\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\carlo\source\repos\PARCIAL1\Logica\obj\Debug\Logica.dll
+C:\Users\carlo\source\repos\PARCIAL1\Logica\obj\Debug\Logica.pdb
+C:\Users\carlo\OneDrive\Escritorio\PROGRAMACION III\PARCIAL1\Logica\bin\Debug\Logica.dll
+C:\Users\carlo\OneDrive\Escritorio\PROGRAMACION III\PARCIAL1\Logica\bin\Debug\Logica.pdb
+C:\Users\carlo\OneDrive\Escritorio\PROGRAMACION III\PARCIAL1\Logica\bin\Debug\Datos.dll
+C:\Users\carlo\OneDrive\Escritorio\PROGRAMACION III\PARCIAL1\Logica\bin\Debug\Entidades.dll
+C:\Users\carlo\OneDrive\Escritorio\PROGRAMACION III\PARCIAL1\Logica\bin\Debug\Datos.pdb
+C:\Users\carlo\OneDrive\Escritorio\PROGRAMACION III\PARCIAL1\Logica\bin\Debug\Entidades.pdb
+C:\Users\carlo\OneDrive\Escritorio\PROGRAMACION III\PARCIAL1\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Escritorio\PROGRAMACION III\PARCIAL1\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\PROGRAMACION III\PARCIAL1\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\carlo\OneDrive\Escritorio\PROGRAMACION III\PARCIAL1\Logica\obj\Debug\Logica.dll
+C:\Users\carlo\OneDrive\Escritorio\PROGRAMACION III\PARCIAL1\Logica\obj\Debug\Logica.pdb
+C:\Users\carlo\OneDrive\Documents\PARCIAL1\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Documents\PARCIAL1\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documents\PARCIAL1\Logica\obj\Debug\Logica.dll
+C:\Users\carlo\OneDrive\Documents\PARCIAL1\Logica\obj\Debug\Logica.pdb
+C:\Users\carlo\OneDrive\Documents\PARCIAL1\Logica\bin\Debug\Logica.dll
+C:\Users\carlo\OneDrive\Documents\PARCIAL1\Logica\bin\Debug\Logica.pdb
+C:\Users\carlo\OneDrive\Documents\PARCIAL1\Logica\bin\Debug\Datos.dll
+C:\Users\carlo\OneDrive\Documents\PARCIAL1\Logica\bin\Debug\Entidades.dll
+C:\Users\carlo\OneDrive\Documents\PARCIAL1\Logica\bin\Debug\Datos.pdb
+C:\Users\carlo\OneDrive\Documents\PARCIAL1\Logica\bin\Debug\Entidades.pdb
+C:\Users\carlo\OneDrive\Documents\PARCIAL1\Logica\obj\Debug\Logica.csproj.CopyComplete
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\PARCIAL1\Logica\bin\Debug\Logica.dll
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\PARCIAL1\Logica\bin\Debug\Logica.pdb
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\PARCIAL1\Logica\bin\Debug\Datos.dll
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\PARCIAL1\Logica\bin\Debug\Entidades.dll
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\PARCIAL1\Logica\bin\Debug\Datos.pdb
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\PARCIAL1\Logica\bin\Debug\Entidades.pdb
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\PARCIAL1\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\PARCIAL1\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\PARCIAL1\Logica\obj\Debug\Logica.csproj.CopyComplete
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\PARCIAL1\Logica\obj\Debug\Logica.dll
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 1\PARCIAL1\Logica\obj\Debug\Logica.pdb
