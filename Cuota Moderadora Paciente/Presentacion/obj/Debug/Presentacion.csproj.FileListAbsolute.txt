@@ -1,0 +1,86 @@
+C:\Users\hp\Documents\C#\Taller\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\hp\Documents\C#\Taller\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\hp\Documents\C#\Taller\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\hp\Documents\C#\Taller\Presentacion\bin\Debug\Entidades.dll
+C:\Users\hp\Documents\C#\Taller\Presentacion\bin\Debug\Logica.dll
+C:\Users\hp\Documents\C#\Taller\Presentacion\bin\Debug\Datos.dll
+C:\Users\hp\Documents\C#\Taller\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\hp\Documents\C#\Taller\Presentacion\bin\Debug\Logica.pdb
+C:\Users\hp\Documents\C#\Taller\Presentacion\bin\Debug\Datos.pdb
+C:\Users\hp\Documents\C#\Taller\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\C#\Taller\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Documents\C#\Taller\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\C#\Taller\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\hp\Documents\C#\Taller\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\hp\Documents\C#\Taller\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 002\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\kevin\Documents\programacion 3\Taller Practico 002\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\kevin\Documents\programacion 3\Taller Practico 002\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 002\Presentacion\bin\Debug\Entidades.dll
+C:\Users\kevin\Documents\programacion 3\Taller Practico 002\Presentacion\bin\Debug\Logica.dll
+C:\Users\kevin\Documents\programacion 3\Taller Practico 002\Presentacion\bin\Debug\Datos.dll
+C:\Users\kevin\Documents\programacion 3\Taller Practico 002\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 002\Presentacion\bin\Debug\Logica.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 002\Presentacion\bin\Debug\Datos.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 002\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\kevin\Documents\programacion 3\Taller Practico 002\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\programacion 3\Taller Practico 002\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\kevin\Documents\programacion 3\Taller Practico 002\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\kevin\Documents\programacion 3\Taller Practico 002\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\hp\Source\Repos\Taller1\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\hp\Source\Repos\Taller1\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\hp\Source\Repos\Taller1\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\hp\Source\Repos\Taller1\Presentacion\bin\Debug\Entidades.dll
+C:\Users\hp\Source\Repos\Taller1\Presentacion\bin\Debug\Logica.dll
+C:\Users\hp\Source\Repos\Taller1\Presentacion\bin\Debug\Datos.dll
+C:\Users\hp\Source\Repos\Taller1\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\hp\Source\Repos\Taller1\Presentacion\bin\Debug\Logica.pdb
+C:\Users\hp\Source\Repos\Taller1\Presentacion\bin\Debug\Datos.pdb
+C:\Users\hp\Source\Repos\Taller1\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\hp\Source\Repos\Taller1\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Source\Repos\Taller1\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\hp\Source\Repos\Taller1\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\hp\Source\Repos\Taller1\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\hp\Source\Repos\Taller1\Presentacion\obj\Debug\Presentacion.pdb
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 2\Taller-Actualizado\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 2\Taller-Actualizado\Presentacion\bin\Debug\Presentacion.exe
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 2\Taller-Actualizado\Presentacion\bin\Debug\Presentacion.pdb
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 2\Taller-Actualizado\Presentacion\bin\Debug\Entidades.dll
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 2\Taller-Actualizado\Presentacion\bin\Debug\Logica.dll
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 2\Taller-Actualizado\Presentacion\bin\Debug\Datos.dll
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 2\Taller-Actualizado\Presentacion\bin\Debug\Entidades.pdb
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 2\Taller-Actualizado\Presentacion\bin\Debug\Logica.pdb
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 2\Taller-Actualizado\Presentacion\bin\Debug\Datos.pdb
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 2\Taller-Actualizado\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 2\Taller-Actualizado\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 2\Taller-Actualizado\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 2\Taller-Actualizado\Presentacion\obj\Debug\Presentacion.exe
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 2\Taller-Actualizado\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 004\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\kevin\Documents\programacion 3\Taller Practico 004\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\kevin\Documents\programacion 3\Taller Practico 004\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 004\Presentacion\bin\Debug\Entidades.dll
+C:\Users\kevin\Documents\programacion 3\Taller Practico 004\Presentacion\bin\Debug\Logica.dll
+C:\Users\kevin\Documents\programacion 3\Taller Practico 004\Presentacion\bin\Debug\Datos.dll
+C:\Users\kevin\Documents\programacion 3\Taller Practico 004\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 004\Presentacion\bin\Debug\Logica.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 004\Presentacion\bin\Debug\Datos.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 004\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\kevin\Documents\programacion 3\Taller Practico 004\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\programacion 3\Taller Practico 004\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\kevin\Documents\programacion 3\Taller Practico 004\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\kevin\Documents\programacion 3\Taller Practico 004\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 005\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\kevin\Documents\programacion 3\Taller Practico 005\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\kevin\Documents\programacion 3\Taller Practico 005\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 005\Presentacion\bin\Debug\Entidades.dll
+C:\Users\kevin\Documents\programacion 3\Taller Practico 005\Presentacion\bin\Debug\Logica.dll
+C:\Users\kevin\Documents\programacion 3\Taller Practico 005\Presentacion\bin\Debug\Datos.dll
+C:\Users\kevin\Documents\programacion 3\Taller Practico 005\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 005\Presentacion\bin\Debug\Logica.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 005\Presentacion\bin\Debug\Datos.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 005\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\kevin\Documents\programacion 3\Taller Practico 005\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\programacion 3\Taller Practico 005\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\kevin\Documents\programacion 3\Taller Practico 005\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\kevin\Documents\programacion 3\Taller Practico 005\Presentacion\obj\Debug\Presentacion.pdb

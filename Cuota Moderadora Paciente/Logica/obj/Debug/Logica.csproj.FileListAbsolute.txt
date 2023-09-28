@@ -1,0 +1,66 @@
+C:\Users\hp\Documents\C#\Taller\Logica\bin\Debug\Logica.dll
+C:\Users\hp\Documents\C#\Taller\Logica\bin\Debug\Logica.pdb
+C:\Users\hp\Documents\C#\Taller\Logica\bin\Debug\Datos.dll
+C:\Users\hp\Documents\C#\Taller\Logica\bin\Debug\Entidades.dll
+C:\Users\hp\Documents\C#\Taller\Logica\bin\Debug\Datos.pdb
+C:\Users\hp\Documents\C#\Taller\Logica\bin\Debug\Entidades.pdb
+C:\Users\hp\Documents\C#\Taller\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\C#\Taller\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\C#\Taller\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\hp\Documents\C#\Taller\Logica\obj\Debug\Logica.dll
+C:\Users\hp\Documents\C#\Taller\Logica\obj\Debug\Logica.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 002\Logica\bin\Debug\Logica.dll
+C:\Users\kevin\Documents\programacion 3\Taller Practico 002\Logica\bin\Debug\Logica.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 002\Logica\bin\Debug\Datos.dll
+C:\Users\kevin\Documents\programacion 3\Taller Practico 002\Logica\bin\Debug\Entidades.dll
+C:\Users\kevin\Documents\programacion 3\Taller Practico 002\Logica\bin\Debug\Datos.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 002\Logica\bin\Debug\Entidades.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 002\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\kevin\Documents\programacion 3\Taller Practico 002\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\programacion 3\Taller Practico 002\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\kevin\Documents\programacion 3\Taller Practico 002\Logica\obj\Debug\Logica.dll
+C:\Users\kevin\Documents\programacion 3\Taller Practico 002\Logica\obj\Debug\Logica.pdb
+C:\Users\hp\Source\Repos\Taller1\Logica\bin\Debug\Logica.dll
+C:\Users\hp\Source\Repos\Taller1\Logica\bin\Debug\Logica.pdb
+C:\Users\hp\Source\Repos\Taller1\Logica\bin\Debug\Datos.dll
+C:\Users\hp\Source\Repos\Taller1\Logica\bin\Debug\Entidades.dll
+C:\Users\hp\Source\Repos\Taller1\Logica\bin\Debug\Datos.pdb
+C:\Users\hp\Source\Repos\Taller1\Logica\bin\Debug\Entidades.pdb
+C:\Users\hp\Source\Repos\Taller1\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\hp\Source\Repos\Taller1\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\hp\Source\Repos\Taller1\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\hp\Source\Repos\Taller1\Logica\obj\Debug\Logica.dll
+C:\Users\hp\Source\Repos\Taller1\Logica\obj\Debug\Logica.pdb
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 2\Taller-Actualizado\Logica\bin\Debug\Logica.dll
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 2\Taller-Actualizado\Logica\bin\Debug\Logica.pdb
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 2\Taller-Actualizado\Logica\bin\Debug\Datos.dll
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 2\Taller-Actualizado\Logica\bin\Debug\Entidades.dll
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 2\Taller-Actualizado\Logica\bin\Debug\Datos.pdb
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 2\Taller-Actualizado\Logica\bin\Debug\Entidades.pdb
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 2\Taller-Actualizado\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 2\Taller-Actualizado\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 2\Taller-Actualizado\Logica\obj\Debug\Logica.csproj.CopyComplete
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 2\Taller-Actualizado\Logica\obj\Debug\Logica.dll
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 2\Taller-Actualizado\Logica\obj\Debug\Logica.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 004\Logica\bin\Debug\Logica.dll
+C:\Users\kevin\Documents\programacion 3\Taller Practico 004\Logica\bin\Debug\Logica.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 004\Logica\bin\Debug\Datos.dll
+C:\Users\kevin\Documents\programacion 3\Taller Practico 004\Logica\bin\Debug\Entidades.dll
+C:\Users\kevin\Documents\programacion 3\Taller Practico 004\Logica\bin\Debug\Datos.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 004\Logica\bin\Debug\Entidades.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 004\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\kevin\Documents\programacion 3\Taller Practico 004\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\programacion 3\Taller Practico 004\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\kevin\Documents\programacion 3\Taller Practico 004\Logica\obj\Debug\Logica.dll
+C:\Users\kevin\Documents\programacion 3\Taller Practico 004\Logica\obj\Debug\Logica.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 005\Logica\bin\Debug\Logica.dll
+C:\Users\kevin\Documents\programacion 3\Taller Practico 005\Logica\bin\Debug\Logica.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 005\Logica\bin\Debug\Datos.dll
+C:\Users\kevin\Documents\programacion 3\Taller Practico 005\Logica\bin\Debug\Entidades.dll
+C:\Users\kevin\Documents\programacion 3\Taller Practico 005\Logica\bin\Debug\Datos.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 005\Logica\bin\Debug\Entidades.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 005\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\kevin\Documents\programacion 3\Taller Practico 005\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\programacion 3\Taller Practico 005\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\kevin\Documents\programacion 3\Taller Practico 005\Logica\obj\Debug\Logica.dll
+C:\Users\kevin\Documents\programacion 3\Taller Practico 005\Logica\obj\Debug\Logica.pdb

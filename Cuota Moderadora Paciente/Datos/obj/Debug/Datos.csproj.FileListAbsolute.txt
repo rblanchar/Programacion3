@@ -1,0 +1,54 @@
+C:\Users\hp\Documents\C#\Taller\Datos\bin\Debug\Datos.dll
+C:\Users\hp\Documents\C#\Taller\Datos\bin\Debug\Datos.pdb
+C:\Users\hp\Documents\C#\Taller\Datos\bin\Debug\Entidades.dll
+C:\Users\hp\Documents\C#\Taller\Datos\bin\Debug\Entidades.pdb
+C:\Users\hp\Documents\C#\Taller\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\C#\Taller\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\C#\Taller\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\hp\Documents\C#\Taller\Datos\obj\Debug\Datos.dll
+C:\Users\hp\Documents\C#\Taller\Datos\obj\Debug\Datos.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 002\Datos\bin\Debug\Datos.dll
+C:\Users\kevin\Documents\programacion 3\Taller Practico 002\Datos\bin\Debug\Datos.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 002\Datos\bin\Debug\Entidades.dll
+C:\Users\kevin\Documents\programacion 3\Taller Practico 002\Datos\bin\Debug\Entidades.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 002\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\kevin\Documents\programacion 3\Taller Practico 002\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\programacion 3\Taller Practico 002\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\kevin\Documents\programacion 3\Taller Practico 002\Datos\obj\Debug\Datos.dll
+C:\Users\kevin\Documents\programacion 3\Taller Practico 002\Datos\obj\Debug\Datos.pdb
+C:\Users\hp\Source\Repos\Taller1\Datos\bin\Debug\Datos.dll
+C:\Users\hp\Source\Repos\Taller1\Datos\bin\Debug\Datos.pdb
+C:\Users\hp\Source\Repos\Taller1\Datos\bin\Debug\Entidades.dll
+C:\Users\hp\Source\Repos\Taller1\Datos\bin\Debug\Entidades.pdb
+C:\Users\hp\Source\Repos\Taller1\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\hp\Source\Repos\Taller1\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\hp\Source\Repos\Taller1\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\hp\Source\Repos\Taller1\Datos\obj\Debug\Datos.dll
+C:\Users\hp\Source\Repos\Taller1\Datos\obj\Debug\Datos.pdb
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 2\Taller-Actualizado\Datos\bin\Debug\Datos.dll
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 2\Taller-Actualizado\Datos\bin\Debug\Datos.pdb
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 2\Taller-Actualizado\Datos\bin\Debug\Entidades.dll
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 2\Taller-Actualizado\Datos\bin\Debug\Entidades.pdb
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 2\Taller-Actualizado\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 2\Taller-Actualizado\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 2\Taller-Actualizado\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 2\Taller-Actualizado\Datos\obj\Debug\Datos.dll
+D:\Ingenieria de Sistemas\Semestre lV\C#\Corte 2\Taller-Actualizado\Datos\obj\Debug\Datos.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 004\Datos\bin\Debug\Datos.dll
+C:\Users\kevin\Documents\programacion 3\Taller Practico 004\Datos\bin\Debug\Datos.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 004\Datos\bin\Debug\Entidades.dll
+C:\Users\kevin\Documents\programacion 3\Taller Practico 004\Datos\bin\Debug\Entidades.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 004\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\kevin\Documents\programacion 3\Taller Practico 004\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\programacion 3\Taller Practico 004\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\kevin\Documents\programacion 3\Taller Practico 004\Datos\obj\Debug\Datos.dll
+C:\Users\kevin\Documents\programacion 3\Taller Practico 004\Datos\obj\Debug\Datos.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 005\Datos\bin\Debug\Datos.dll
+C:\Users\kevin\Documents\programacion 3\Taller Practico 005\Datos\bin\Debug\Datos.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 005\Datos\bin\Debug\Entidades.dll
+C:\Users\kevin\Documents\programacion 3\Taller Practico 005\Datos\bin\Debug\Entidades.pdb
+C:\Users\kevin\Documents\programacion 3\Taller Practico 005\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\kevin\Documents\programacion 3\Taller Practico 005\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\programacion 3\Taller Practico 005\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\kevin\Documents\programacion 3\Taller Practico 005\Datos\obj\Debug\Datos.dll
+C:\Users\kevin\Documents\programacion 3\Taller Practico 005\Datos\obj\Debug\Datos.pdb
